@@ -1,0 +1,25 @@
+{
+  "name": "mcc-mnc-beem.json",
+  "version": "1.0.0",
+  "description": "Scrapes https://mcc-mnc.com/",
+  "main": "mcc-mnc-beem",
+  "scripts": {
+    "scrape": "./scrape.js > mcc-mnc-beem.json"
+  },
+  "devDependencies": {
+    "lodash.startswith": "^4.1.0",
+    "lodash.trim": "^4.4.0",
+    "superagent": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Godfrey Makori",
+    "Beem",
+    "Beem Godfrey Makori"
+  ],
+  "author": "",
+  "license": "ISC"
+}
